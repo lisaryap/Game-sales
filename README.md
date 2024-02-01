@@ -1,5 +1,5 @@
 # Анализ рынка видеоигр до 2016 года         
-[ipynb](https://github.com/lisaryap/Portfolio/blob/main/Game%20sales/Game_sales%20-%20Elizaveta%20Ryapolova.ipynb)
+[ipynb](https://github.com/lisaryap/Game-sales/blob/main/Game_sales%202016.ipynb)
 
 ## Описание проекта
 
